@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Drew Martin
-"""
-
 # Define the NFA
 # A = q0, B = q1, C = q2, D = q3, E = q4, F = q5
 NULL = 'Ø'
